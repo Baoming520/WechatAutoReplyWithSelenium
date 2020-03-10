@@ -1,0 +1,11 @@
+{
+  "web_drive_path": "./drives/chromedriver.exe",
+  "senders": [
+    { 
+      "nickname": "Baoming Yu" 
+    },
+    {
+      "nickname": "大宝儿"
+    }
+  ]
+}
